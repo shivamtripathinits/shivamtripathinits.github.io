@@ -1,37 +1,322 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shivamtripathinits/shivamtripathinits.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <head>
 
-### Markdown
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <title>Prashant</title>
 
-```markdown
-Syntax highlighted code block
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-# Header 1
-## Header 2
-### Header 3
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
 
-- Bulleted
-- List
+    <!-- Custom styles for this template -->
+    <link href="css/resume.min.css" rel="stylesheet">
 
-1. Numbered
-2. List
+  </head>
 
-**Bold** and _Italic_ and `Code` text
+  <body id="page-top">
 
-[Link](url) and ![Image](src)
-```
+    <nav class="navbar navbar-expand-lg navbar-dark bg-info fixed-top" id="sideNav">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none">Prashant Kumar Mahanta</span>
+        <span class="d-none d-lg-block">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile1.jpg" alt="">
+        </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://prashant-mahanta.github.io/projects/" target="_blank">Projects</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    <div class="container-fluid p-0">
 
-### Jekyll Themes
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+        <div class="my-auto">
+          <h1 class="mb-0">Prashant
+            <span class="text-info">Mahanta</span>
+          </h1>
+          <div class="subheading mb-5">
+            <!-- <a href="mailto:name@email.com">name@email.com</a> -->
+          </div>
+          <p class="lead mb-5">I am a final year undergraduate pursuing a major in Computer Science and Engineering at Indian Institute of Information Technology, Sri City, A.P. My interests include Competitive Programming, NLP, Machine Learning and Information Visualization. I am very active on many Competitive Programming websites such as <a href="https://www.codechef.com/users/prashant231997" target="_blank">Codechef</a>, <a href="https://codeforces.com/profile/prashant.mahanta" target="_blank">Codeforces</a>, <a href="https://www.hackerrank.com/prashant_mahanta" target="_blank">Hackerrank</a>, and <a href="https://www.hackerearth.com/@prashant609" target="_blank"> Hackerearth</a>
+          <br>
+          <br>
+          I take interest in learning about life through movies and TV series (open to recommendations). I like to invest in long, informed, and elaborate discussions about technology, religion, movies, humans, politics; not necesarily in that order. </p>
+          <div class="social-icons">
+            <a href="https://www.linkedin.com/in/prashant-mahanta/" target="_blank">
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+            <a href="https://www.github.com/prashant-mahanta/" target="_blank">
+              <i class="fab fa-github"></i>
+            </a>
+            <a href="https://www.instagram.com/mahanta_pk" target="_blank">
+              <i class="fab fa-instagram"></i>
+            </a>
+            <a href="https://www.facebook.com/prashant.mahanta.79" target="_blank">
+              <i class="fab fa-facebook-f"></i>
+            </a>
+          </div>
+          <div class="container text-right">
+            <pre>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivamtripathinits/shivamtripathinits.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+            </pre>
+          </div>
+          <div class="container text-right">
+          <a href="Prashant_Mahanta_Latest.pdf" class="btn btn-xl btn-dark" style="font-size: 1.5em" target="_blank">Resume</a>
+          <a href="Prashant_Mahanta_Latest.pdf" class="btn btn-xl btn-dark" style="font-size: 1.5em" target="_blank">CV</a>
+          </div>
 
-### Support or Contact
+        </div>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+      </section>
+
+      <hr class="m-0">
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+        <div class="my-auto">
+          <h2 class="mb-5">Experience</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Software Developer Intern</h3>
+              <div class="subheading mb-3"><a href="https://www.iiit.ac.in/news/productslab/" target="_blank">IIIT Hyderabad Product Labs</a></div>
+              <p>I worked as an intern during summers, under <a href="https://www.linkedin.com/in/veera-prakash-yalla-388b311/">Prof. Yalla Veera Prakash</a>. I was involved in building a annotation tool, which is completely build using JavaScript. The annotation tool will be used to annotate different regions and to store attributes to the regions. </p>
+              <p>I was also involved in tasks such as: Identify title in legal documents and questions-answers pairs from legal document(using NLP). </p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-info">May 2019 - July 2019</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Opensource Contributor</h3>
+              <div class="subheading mb-3">GirlScript Summer of Code' 19</div>
+              <p>I participated on GirlScript Summer of Code'19 and was recognised as <a href="https://www.slideshare.net/slideshow/embed_code/key/bacPtEj5IhTF0e" target="_blank" >Top Contributor</a> this year. You can read my Blog <a href="https://medium.com/@prashant023/my-journey-at-gssoc19-e8066f460a12" target="_blank">here</a>.</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-info">March 2019 - May 2019</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Teaching Assistant</h3>
+              <div class="subheading mb-3">IIIT Sri City, Signals and Systems</div>
+              <p>I worked as the TA of Signal and Systems course for the Freshman students at IIIT Sri City, under <a href="https://sites.google.com/site/turlapatyanish/">Prof. Anish Turlapaty</a>.I am involved in teaching a batch of 130 students. Conduct labs and tutorials for the students as a part of the course.</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-info">January 2019 - April 2019</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Teaching Assistant</h3>
+              <div class="subheading mb-3">IIIT Sri City, Maths - 3</div>
+              <p>I was the TA of Maths-3 for the Sophomore students at IIIT Sri City, under <a href="https://sites.google.com/site/drrangeetmitra/home?authuser=0">Prof. Rangeet Mitra</a>. The course deals with Probability Theory and Complex Analysis. I was involved in teaching a batch of 140 students. Conduct tutorials for the students as a part of this course.</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-info">September 2018 - November 2018</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Event Coordinator</h3>
+              <div class="subheading mb-3">Techfesia, 2018</div>
+              <p>I was the coordinator of the <a href="https://www.hackerrank.com/reverse-coding-1-techfesia">Reverse Coding</a> in <a href="https://www.facebook.com/techfesia/">Techfesia 2018</a>, annual technical Fest of IIIT Sri City. I was involved in preparing questions and testcases for the contest. Around 220 people had participated in the contest.</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-info">September - 2018</span>
+            </div>
+          </div>
+
+        </div>
+
+      </section>
+
+      <hr class="m-0">
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
+        <div class="my-auto">
+          <h2 class="mb-5">Education</h2>
+          <!-- College -->
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Indian Institute of Information Technology, Sri City</h3>
+              <div class="subheading mb-3">Bachelor of Technology</div>
+              <div>Computer Science and Engineering</div>
+              <p>CGPA: 8.5</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-info">August 2016 - Present</span>
+            </div>
+          </div>
+
+
+          <!-- Intermediate -->
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Vikas Vidyaniketan</h3>
+              <div class="subheading mb-3">Intermediate</div>
+              <p>Percentage: 93.6 %</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-info">June 2013 - April 2015</span>
+            </div>
+          </div>
+
+          <!-- High School -->
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Kendriya Vidyalaya, Keonjhar</h3>
+              <div class="subheading mb-3">Schooling</div>
+              <!-- <p>Marks</p> -->
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-info">August 2003 - March 2013</span>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <hr class="m-0">
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+        <div class="my-auto">
+          <h2 class="mb-5">Skills</h2>
+
+          <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+          <ul class="list-inline dev-icons">
+            <li class="list-inline-item">
+              <i class="fab fa-html5"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="fab fa-css3-alt"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="fab fa-js-square"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="fab fa-node-js"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="fab fa-npm"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="fab fa-python"></i>
+            </li>
+          </ul>
+
+          <div class="subheading mb-3">Workflow</div>
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Mobile-First, Responsive Design</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Cross Browser Testing &amp; Debugging</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Cross Functional Teams</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Agile Development &amp; Scrum</li>
+          </ul>
+        </div>
+      </section>
+
+      <hr class="m-0">
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
+        <div class="my-auto">
+          <h2 class="mb-5">Interests</h2>
+          <p>Apart from being a software developer, I enjoy most of my time being outdoors. I enjoy exploring new places, free climbing, and kayaking.</p>
+          <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and web series, I am an aspiring chef, and I spend a large amount of my free time contributing into Open Source Projects such as GSSOC.</p>
+        </div>
+      </section>
+
+      <hr class="m-0">
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
+        <div class="my-auto">
+          <h2 class="mb-5">Awards &amp; Certifications</h2>
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              38<sup>th</sup>
+              Place - <a href="https://icpc.baylor.edu/ICPCID/0BPLQOL2WVX5" target="_blank">ACM ICPC Kharagpur Regionals 2018-2019</a></li>
+
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              Among top 1000 teams in the Pre-Elimination of <a href="https://www.codechef.com/teams/view/lawliet7" target="_blank">Codechef Snackdown</a> among 27875 teams participated.
+            </li>
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              3<sup>rd</sup>
+              Place - Elektra  - IIIT Sri City</li>
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              4 Star Coder at Codechef - Highest Rating - 1972
+              </li>
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              Won 10 medals in Hackerrank (1 gold, 2 silver, 7 bronze) - Highest Rating - 2126
+              </li>
+          </ul>
+        </div>
+      </section>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/resume.min.js"></script>
+
+  </body>
+
+</html>
